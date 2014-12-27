@@ -40,6 +40,7 @@ package jBittorrentAPI;
 /**
  * Simple example to show how it is possible to download files using bittorrent
  * protocol with a given .torrent file
+ *
  */
 class ExampleDownloadFiles {
 
